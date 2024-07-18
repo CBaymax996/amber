@@ -1,0 +1,8 @@
+group = 'top.cbaymax.amber'
+version = '1.0.0'
+
+repositories {
+    maven { url 'https://maven.aliyun.com/repository/public' }
+    mavenCentral()
+}
+

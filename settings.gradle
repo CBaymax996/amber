@@ -1,0 +1,10 @@
+rootProject.name = 'amber'
+
+include 'projects:rna'
+findProject(':projects:rna')?.name = 'rna'
+
+include 'projects:misty'
+findProject(':projects:misty')?.name = 'misty'
+include 'projects:misty'
+findProject(':projects:misty')?.name = 'misty'
+
