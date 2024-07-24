@@ -4,6 +4,21 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/projects/misty/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/projects/misty/misty-application/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/misty/misty-client/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/misty/misty-infrastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/projects/misty/misty-service/pom.xml" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="azul-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
